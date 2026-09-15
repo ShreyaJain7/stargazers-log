@@ -1,0 +1,47 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "owner": "octocat",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "My first repository on GitHub.",
+    "language": "HTML",
+    "stars": 2800,
+    "starredAt": "2026-01-14"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum.",
+    "language": "TypeScript",
+    "stars": 412000,
+    "starredAt": "2026-02-02"
+  },
+  {
+    "name": "microsoft/vscode",
+    "owner": "microsoft",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code, a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 168000,
+    "starredAt": "2026-03-21"
+  },
+  {
+    "name": "vercel/next.js",
+    "owner": "vercel",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework for the Web.",
+    "language": "JavaScript",
+    "stars": 128000,
+    "starredAt": "2026-04-09"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss",
+    "owner": "tailwindlabs",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "stars": 84000,
+    "starredAt": "2026-05-30"
+  }
+]
